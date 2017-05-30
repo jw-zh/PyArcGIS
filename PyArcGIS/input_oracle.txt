@@ -1,0 +1,12 @@
+db_type=ORACLE
+ip=dev000861:1521/
+dbname=cdb
+username=sys
+password=sys
+new_dbname=jw_db
+new_gdbname=jw_gdb
+sde=mysde.sde
+new_usernames=a,b,c
+drop_newusers=False
+new_db_tbsp=jian_db_tbsp
+sde_tbsp=sde

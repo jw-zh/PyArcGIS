@@ -1,0 +1,12 @@
+db_type=POSTGRES
+ip=localhost
+dbname=postgres
+username=postgres
+password=admin
+new_dbname=test1
+new_gdbname=test1_gdb
+sde=mysde.sde
+new_usernames=a,b,c
+drop_newusers=False
+new_db_tbsp=test1_tbsp
+sde_tbsp=test2_tbsp
