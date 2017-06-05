@@ -1,5 +1,5 @@
 # PyArcGIS
-python script for setting up db environment
+Python script for setting up db environment
 ## Description
 This project is to setup environment for ESRI OGC testing.  
 It will read input parameters from input text file, and the script will automatically do followings:  
